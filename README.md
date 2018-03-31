@@ -6,3 +6,8 @@ World
 -----
 
 Weekday - Task to determine if today is a weekday.
+
+Home
+----
+
+Home - Task that uses AutoCast to welcome me home, and clear work related variables.
